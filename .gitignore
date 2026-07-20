@@ -1,0 +1,19 @@
+# Uploaded movie posters (local files, not source code)
+uploads/*
+!uploads/.gitkeep
+
+# Sensitive config (rename config.php to config.example.php for sharing)
+# config.php
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
+
+# PHP logs
+*.log
+error_log
